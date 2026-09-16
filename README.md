@@ -1,10 +1,10 @@
-# Cybersecurity Threat Intelligence & Analytics
+# Cyber Threat Analytics Platform
 
 A cybersecurity analytics project developed across four milestones using incident data and Microsoft Power BI to analyze threat patterns, temporal trends, geospatial risk, response analytics, and executive-level risk intelligence.
 
 ## Project Overview
 
-The project progresses from data integration and incident modeling to threat intelligence, geospatial intelligence, and risk intelligence with predictive financial-loss analysis.
+The Cyber Threat Analytics Platform progresses from data integration and incident modeling to threat intelligence, geospatial intelligence, and risk intelligence with predictive financial-loss analysis.
 
 ## Milestones
 
@@ -86,7 +86,7 @@ The project includes analysis of:
 ## Repository Structure
 
 ```text
-cybersecurity-threat-intelligence-analytics/
+cyber-threat-analytics-platform/
 │
 ├── milestone-1-data-integration/
 │   ├── README.md
